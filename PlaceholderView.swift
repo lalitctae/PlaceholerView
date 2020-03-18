@@ -2,7 +2,6 @@
 //  PlaceholderView.swift
 //
 //  Created by Lalit Kumar on 04/04/17.
-//  Copyright © 2017 Listup. All rights reserved.
 //
 
 import UIKit
